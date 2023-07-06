@@ -1,3 +1,11 @@
+C:\Users\xiuxi\AppData\Local\Android\Sdk\ndk\android-ndk-r21e
+<br>
+https://github.com/android/ndk/wiki/Unsupported-Downloads   各种版本下载地址
+<br>
+https://dl.google.com/android/repository/android-ndk-r14b-linux-x86_64.zip
+<br>
+
+
 # Android Native Development Kit (NDK)
 
 The NDK allows Android application developers to include native code in their
